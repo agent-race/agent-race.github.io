@@ -1,5 +1,5 @@
-# LLM Privacy Benchmark Official Website
+# AgentRace Benchmark Official Website
 
-https://llm-pbe.github.io/
+https://agent-race.github.io/
 
 The source code is saved in `gh-pages` branch
